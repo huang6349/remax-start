@@ -1,10 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "dev": "remax build -w -t",
-    "dev:wechat": "remax build -w -t wechat",
-    "build": "cross-env NODE_ENV=production remax build -t",
-    "build:wechat": "cross-env NODE_ENV=production remax build -t wechat"
+    "dev": "remax build -w -t wechat",
+    "build": "cross-env NODE_ENV=production remax build -t wechat"
   },
   "dependencies": {
     "clsx": "1.1.1",
