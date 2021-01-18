@@ -1259,6 +1259,11 @@
   resolved "https://registry.npm.taobao.org/@umijs/babel-plugin-auto-css-modules/download/@umijs/babel-plugin-auto-css-modules-3.3.5.tgz?cache=0&sync_timestamp=1610692542822&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40umijs%2Fbabel-plugin-auto-css-modules%2Fdownload%2F%40umijs%2Fbabel-plugin-auto-css-modules-3.3.5.tgz#c4516e355cc124d9d4a718aeaef5dc3f281921cc"
   integrity sha1-xFFuNVzBJNnUpxiurvXcPygZIcw=
 
+"@vant/weapp@1.6.4":
+  version "1.6.4"
+  resolved "https://registry.npm.taobao.org/@vant/weapp/download/@vant/weapp-1.6.4.tgz#94aa1b6de263222a4d42af6b00665313fcf76a2c"
+  integrity sha1-lKobbeJjIipNQq9rAGZTE/z3aiw=
+
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
   resolved "https://registry.npm.taobao.org/@webassemblyjs/ast/download/@webassemblyjs/ast-1.9.0.tgz?cache=0&sync_timestamp=1610041386122&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fast%2Fdownload%2F%40webassemblyjs%2Fast-1.9.0.tgz#bd850604b4042459a5a41cd7d338cbed695ed964"

@@ -5,6 +5,7 @@
     "build": "cross-env NODE_ENV=production remax build -t wechat"
   },
   "dependencies": {
+    "@vant/weapp": "1.6.4",
     "clsx": "1.1.1",
     "lodash": "^4.17.20",
     "miniprogram-network": "5.2.0",
