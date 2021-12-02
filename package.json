@@ -5,18 +5,21 @@
     "build": "cross-env NODE_ENV=production remax build -t wechat"
   },
   "dependencies": {
-    "@vant/weapp": "1.6.4",
+    "@vant/weapp": "1.9.2",
     "clsx": "1.1.1",
     "lodash": "^4.17.20",
     "miniprogram-network": "5.2.0",
+    "mobx": "6.3.2",
+    "mobx-react": "7.2.0",
     "prop-types": "15.7.2",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-router-dom": "4.3.1",
-    "remax": "2.11.3",
-    "unstated-next": "1.1.0"
+    "remax": "2.13.6"
   },
   "devDependencies": {
+    "@babel/core": "7.14.8",
+    "babel-preset-remax": "2.13.6",
     "cross-env": "^7.0.2"
   },
   "engines": {
